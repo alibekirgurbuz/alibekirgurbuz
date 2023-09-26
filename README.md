@@ -1,13 +1,14 @@
+ [![MasterHead](https://static.vecteezy.com/system/resources/previews/004/753/002/non_2x/custom-coding-icon-shadowed-detailed-custom-coding-logo-free-vector.jpg)
+
 <h1 align="center">Hi 👋, I'm Ali Gürbüz</h1>
 <h3 align="center">A developer from Turkey</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=alibekirgurbuz&label=Profile%20views&color=0e75b6&style=flat" alt="alibekirgurbuz" /> </p>
 
 - 📫 How to reach me **galibekir@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/ali-gürbüz-2a670a22a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/ali-gürbüz-2a670a22a" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/aligürbüz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aligürbüz" height="30" width="40" /></a>
+<a href="https://instagram.com/ali._grbz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ali._grbz" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -17,4 +18,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alibekirgurbuz&show_icons=true&locale=en" alt="alibekirgurbuz" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alibekirgurbuz&" alt="alibekirgurbuz" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alibekirgurbuz&theme=default" alt="alibekirgurbuz" /></p>
