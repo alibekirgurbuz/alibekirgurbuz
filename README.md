@@ -1,5 +1,3 @@
- [![MasterHead](https://static.vecteezy.com/system/resources/previews/004/753/002/non_2x/custom-coding-icon-shadowed-detailed-custom-coding-logo-free-vector.jpg)
-
 <h1 align="center">Hi 👋, I'm Ali Gürbüz</h1>
 <h3 align="center">A developer from Turkey</h3>
 
