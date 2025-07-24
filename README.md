@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ali Gürbüz</h1>
 <h3 align="center">A developer from Turkey</h3>
 
-<h3 align ="center"> - 📫 How to reach me galibekir@gmail.com </h3>
+<h4 align ="center"> 📫 How to reach me galibekir@gmail.com </h4>
 
-<h3 align="center">Connect with me:</h3>
+<h4 align="center">Connect with me:</h4>
 <p align="center">
 <a href="https://www.linkedin.com/in/ali-g%C3%BCrb%C3%BCz-2a670a22a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aligürbüz" height="30" width="40" /></a>
 <a href="https://instagram.com/ali._grbz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ali._grbz" height="30" width="40" /></a>
