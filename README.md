@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ali Gürbüz</h1>
 <h3 align="center">A developer from Turkey</h3>
 
-<h3 align ="center"> - 📫 How to reach me **galibekir@gmail.com** </h3>
+<h3 align ="center"> - 📫 How to reach me galibekir@gmail.com </h3>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
